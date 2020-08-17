@@ -49,6 +49,7 @@ topics:
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
+    image_url: JavaScript
     description: Building interactive web applications.
 
 schools:
