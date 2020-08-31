@@ -49,7 +49,7 @@ topics:
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
-    image_url: JavaScript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
     description: Building interactive web applications.
 
 schools:
@@ -60,5 +60,5 @@ schools:
 
   - name: Sri Chaitanya Junior College (2016-2018)
     web_url: https://srichaitanya.net/
-    image_url: https://www.pngkit.com/png/detail/248-2487068_a-few-words-about-sri-chaitanya-sri-chaitanya.png
+    image_url: https://images.jdmagicbox.com/comp/vijayawada/q4/0866px866.x866.170924235250.x7q4/catalogue/sri-chaitanya-junior-college-tadigaddapa-vijayawada-colleges-1mgitpqd0y.jpg?clr=#54121d
     description: Stream - Mathematics, Physics and Chemistry. Percentage 98.2%
