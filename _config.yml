@@ -29,23 +29,23 @@ projects:
     # - repo-name
 
 social_media:
-  facebook: prasuna.pulivendula.9
-  hackerrank: prasuna_16
-  instagram: i_m_prasuna
-  linkedin: prasuna-pulivendula-175263176
-  telegram: suna_xp
-  twitter: prasunareddy8
+  facebook: pravallika.reddy.756412
+  hackerrank: Pravali_07
+  instagram: prvli_07
+  linkedin: p-pravallika
+  telegram: Pravalireddy
+  twitter: PravallikaPuli3
 
 topics:
-  - name: C++
-    web_url: https://github.com/topics/cpp
-    image_url: https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png
-    description: Problem solving and competitive programming in C++.
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    description: Problem solving and competitive programming in Python.
 
   - name: Flask
     web_url: https://github.com/topics/flask
     image_url: https://www.todesktop.com/images/1c2437c139969ae8e4100b477fb824f1.svg
-    description: Web development using Flask.
+    description: Web development using Flask Framework.
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
@@ -53,12 +53,12 @@ topics:
     description: Building interactive web applications.
 
 schools:
-  - name: National Institute of Technology, Andhra Pradesh (2018-2022)
-    web_url: https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Andhra_Pradesh
-    image_url: https://upload.wikimedia.org/wikipedia/en/3/36/NIT_Andhra_Pradesh.png
-    description: Undergraduate in Computer Science and Engineering. CGPA 9.82/10
+  - name: JNTUA College of Engineering, Pulivendula(2017-2021)
+    web_url: https://jntuacep.ac.in/
+    image_url: https://jntuacep.ac.in/results/images/clglogo.jpg
+    description: Undergraduate in Computer Science and Engineering. CGPA 8.55/10
 
-  - name: Sri Chaitanya Junior College (2016-2018)
+  - name: Sri Chaitanya Junior College, Tirupati (2015-2017)
     web_url: https://srichaitanya.net/
     image_url: https://images.jdmagicbox.com/comp/vijayawada/q4/0866px866.x866.170924235250.x7q4/catalogue/sri-chaitanya-junior-college-tadigaddapa-vijayawada-colleges-1mgitpqd0y.jpg?clr=#54121d
-    description: Stream - Mathematics, Physics and Chemistry. Percentage 98.2%
+    description: Stream - Mathematics, Physics and Chemistry. Percentage 97.3/100
